@@ -2,7 +2,7 @@ package level3;
 
 import java.util.Scanner;
 
-public class CalendarDisplay {
+public class CalendarDisplayy {
 
     static boolean isLeap(int y) 
     {

@@ -1,11 +1,11 @@
 package level2;
 
-class BankAccount{
+class BankAccountttt{
 	String accountHolder;
 	int accountNumber;
 	double balance;
 	
-	BankAccount(String a, int n, int b){
+	BankAccountttt(String a, int n, int b){
 		accountHolder=a;
 		accountNumber=n;
 		balance=b;
@@ -43,7 +43,7 @@ class BankAccount{
 }
 public class ATM {
 public static void main(String[] args) {
-	BankAccount b1=new BankAccount("maha",37282828,5000);
+	BankAccountttt b1=new BankAccountttt("maha",37282828,5000);
 	 b1.display();
      b1.deposite(2000);
      b1.withdraw(3000);

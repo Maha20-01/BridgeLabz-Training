@@ -33,7 +33,7 @@ class Students {
 		}
 	
 }
-public class Student {
+public class Studentss {
 public static void main(String[] args) {
 	Students s1=new Students("maha",30,55);
 	s1.display();

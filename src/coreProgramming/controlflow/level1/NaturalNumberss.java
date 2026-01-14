@@ -1,6 +1,6 @@
 package level1;
 import java.util.Scanner;
-public class NaturalNumber {
+public class NaturalNumberss {
 public static void main(String[] args)
 {
 	Scanner sc=new Scanner(System.in);

@@ -1,6 +1,6 @@
 package level1;
 
-class Book{
+class Books{
 	String title;
 	String author;
 	int price;
@@ -18,7 +18,7 @@ class Book{
 
 public class BookDetails {
 	public static void main(String[] args) {
-		Book b1=new Book();
+		Books b1=new Books();
 		b1.title="Titanic";
 		b1.author ="cameron";
 		b1.price=890;
