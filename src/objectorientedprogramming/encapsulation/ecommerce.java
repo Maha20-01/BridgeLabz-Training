@@ -6,7 +6,6 @@ interface taxable {
     double calcTax();
     String taxInfo();
 }
-
 abstract class prod {
     private int prodId;
     private String prodName;
