@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2174bcd-4fd4-43f4-a406-21d10be6f8d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38Vl1JS00sZHoR8EOuHwLeARBx3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.bubbleStudentsort.executor": "Run",
+    "Application.bufferVsBuilder.executor": "Run",
+    "Application.circularTour.executor": "Run",
+    "Application.concatStr.executor": "Run",
+    "Application.consoleToFile.executor": "Run",
+    "Application.countWord.executor": "Run",
+    "Application.countingSortAge.executor": "Run",
+    "Application.ecommerce.executor": "Run",
+    "Application.findFirstSentence.executor": "Run",
+    "Application.firstLastOccuranceBinary.executor": "Run",
+    "Application.firstNegativeNumber.executor": "Run",
+    "Application.heapSortSalary.executor": "Run",
+    "Application.insertionSortIds.executor": "Run",
+    "Application.inventoryManagement.executor": "Run",
+    "Application.largeFileReading.executor": "Run",
+    "Application.mixingPositiveBinarySearch.executor": "Run",
+    "Application.movieManagement.executor": "Run",
+    "Application.myHashMap.executor": "Run",
+    "Application.peakElement.executor": "Run",
+    "Application.perfTest.executor": "Run",
+    "Application.queueUsingStack.executor": "Run",
+    "Application.quickSortPrice.executor": "Run",
+    "Application.readByteChar.executor": "Run",
+    "Application.readFile.executor": "Run",
+    "Application.removeDupli.executor": "Run",
+    "Application.reverseStr.executor": "Run",
+    "Application.rotationPoint.executor": "Run",
+    "Application.roundrobinscheduling.executor": "Run",
+    "Application.searchaTarget.executor": "Run",
+    "Application.selectionSortScore.executor": "Run",
+    "Application.slideMax.executor": "Run",
+    "Application.socialMedia.executor": "Run",
+    "Application.sortingDataEfficiency.executor": "Run",
+    "Application.stockSpan.executor": "Run",
+    "Application.stringConcatenation.executor": "Run",
+    "Application.studentRecord.executor": "Run",
+    "Application.taskScheduler.executor": "Run",
+    "Application.ticketReservation.executor": "Run",
+    "Application.twoDmatrixBinarySearch.executor": "Run",
+    "Application.twoSum.executor": "Run",
+    "Application.undoRedo.executor": "Run",
+    "Application.zeroSumSub.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/dsa",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/MAHA/BridgeLabz_Java_CG",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2174bcd-4fd4-43f4-a406-21d10be6f8d0" name="Changes" comment="" />
+      <created>1768892404334</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768892404334</updated>
+    </task>
+    <servers />
+  </component>
+</project>
