@@ -1,2 +1,0 @@
-hello this is the text from terminal 
-how are you 
