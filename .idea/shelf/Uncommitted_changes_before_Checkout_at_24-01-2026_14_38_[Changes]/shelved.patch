@@ -1,0 +1,17 @@
+Index: src/object-oriented-programming/javaConstructors/level1/Book.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package level1;\r\n\r\nclass Bookclass{\r\n\tprivate String title;\r\n\tprivate String author;\r\n\tprivate int price;\r\n\r\n\t\r\n\tpublic Bookclass() {\r\n\t\tthis.title=\"a\";\r\n\t\tthis.author=\"b\";\r\n\t\tthis.price=0;\r\n\t}\r\n\t\r\n\tpublic Bookclass(String title,String author,int price) {\r\n\t\tthis.title=title;\r\n\t\tthis.author=author;\r\n\t\tthis.price=price;\r\n\r\n\t}\r\n      void display() {\r\n    \t  System.out.println(\"the book name = \"+title);\r\n    \t  System.out.println(\"the book author = \"+author);\r\n    \t  System.out.println(\"the book price = \"+price);\r\n\r\n      }\r\n}\r\n\r\n\r\n\r\n\r\npublic class Book {\r\npublic static void main(String[] args) {\r\n\tBookclass b1=new Bookclass(\"titanic\",\"cameron\",987);\r\n\tb1.display();\r\n}\r\n}\r\n
+===================================================================
+diff --git a/src/object-oriented-programming/javaConstructors/level1/Book.java b/src/object-oriented-programming/javaConstructors/level1/Book.java
+--- a/src/object-oriented-programming/javaConstructors/level1/Book.java	(revision f3404c45cc4b676f2fa75c76d791afe41efa9644)
++++ b/src/object-oriented-programming/javaConstructors/level1/Book.java	(date 1769239304158)
+@@ -27,8 +27,6 @@
+ }
+ 
+ 
+-
+-
+ public class Book {
+ public static void main(String[] args) {
+ 	Bookclass b1=new Bookclass("titanic","cameron",987);
