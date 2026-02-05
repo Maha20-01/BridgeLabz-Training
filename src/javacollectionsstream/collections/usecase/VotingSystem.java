@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.usecase;
+package javacollectionsstream.collections.usecase;
 
 import java.util.*;
 

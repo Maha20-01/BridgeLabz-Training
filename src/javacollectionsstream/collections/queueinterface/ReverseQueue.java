@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.queueinterface;
+package javacollectionsstream.collections.queueinterface;
 
 import java.util.*;
 

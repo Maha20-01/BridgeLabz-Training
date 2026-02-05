@@ -6,6 +6,7 @@
     Different job roles like Software Engineer, Data Scientist,
     and Product Manager are screened using a generic Resume class.
 */
+package javacollectionsstream.generics;
 
 abstract class jobrole {
 

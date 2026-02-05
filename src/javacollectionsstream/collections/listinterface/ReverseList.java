@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.listinterface;
+package javacollectionsstream.collections.listinterface;
 import java.util.*;
 
 public class ReverseList {
@@ -14,11 +14,11 @@ public class ReverseList {
     }
 
     public static void main(String[] args) {
-        List<Integer> arrayList = new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5));
+        List<Integer> arrayList = new ArrayList<>(Arrays.asList(1, 2, 5, 4, 5));
         reverse(arrayList);
         System.out.println(arrayList);
 
-        List<Integer> linkedList = new LinkedList<>(Arrays.asList(1, 2, 3, 4, 5));
+        List<Integer> linkedList = new LinkedList<>(Arrays.asList(6, 2, 3, 4, 5));
         reverse(linkedList);
         System.out.println(linkedList);
     }

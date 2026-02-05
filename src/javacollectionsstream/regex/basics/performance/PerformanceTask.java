@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.performance;
+package javacollectionsstream.regex.basics.performance;
 
 public class PerformanceTask {
 

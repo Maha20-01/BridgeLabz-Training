@@ -7,6 +7,7 @@
     Exam, Assignment, and Research courses are managed
     using a generic Course class.
 */
+package javacollectionsstream.generics;
 
 abstract class coursetype {
 

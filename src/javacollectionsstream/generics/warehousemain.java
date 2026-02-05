@@ -7,6 +7,7 @@
     Groceries, and Furniture are stored safely using a generic
     Storage class while maintaining type safety.
 */
+package javacollectionsstream.generics;
 
 abstract class warehouseitem {
 

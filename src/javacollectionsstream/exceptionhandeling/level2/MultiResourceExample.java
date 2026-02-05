@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandeling.level2;
+package javacollectionstream.exceptionhandeling.level2;
 import java.io.*;
 import java.util.Scanner;
 

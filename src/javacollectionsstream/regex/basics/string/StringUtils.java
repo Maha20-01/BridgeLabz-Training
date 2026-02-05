@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.string;
+package javacollectionsstream.regex.basics.string;
 
 public class StringUtils {
 

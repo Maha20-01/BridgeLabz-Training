@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandeling.level1;
+package javacollectionsstream.exceptionhandeling.level1;
 public class ExceptionPropagationExample {
 
     /*

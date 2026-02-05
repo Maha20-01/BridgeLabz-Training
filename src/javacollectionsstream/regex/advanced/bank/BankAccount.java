@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.bank;
+package javacollectionsstream.regex.advanced.bank;
 
 public class BankAccount {
 

@@ -1,4 +1,4 @@
-package javacollectionstreams.exceptionhandeling.level1;
+package javacollectionsstream.exceptionhandeling.level1;
 import java.util.Scanner;
 
 public class NestedTryCatchExample {

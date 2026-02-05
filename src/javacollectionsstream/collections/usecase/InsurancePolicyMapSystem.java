@@ -1,16 +1,16 @@
-package javacollectionstreams.collections.usecase;
+package javacollectionsstream.collections.usecase;
 
 import java.util.*;
 import java.time.*;
 
-class Policy {
+class Policy1 {
     int policyNumber;
     String policyHolder;
     LocalDate expiryDate;
     String coverageType;
     double premium;
 
-    Policy(int policyNumber, String policyHolder, LocalDate expiryDate, String coverageType, double premium) {
+    Policy1(int policyNumber, String policyHolder, LocalDate expiryDate, String coverageType, double premium) {
         this.policyNumber = policyNumber;
         this.policyHolder = policyHolder;
         this.expiryDate = expiryDate;
@@ -25,24 +25,24 @@ class Policy {
 
 public class InsurancePolicyMapSystem {
 
-    static void expiringSoon(Map<Integer, Policy> map) {
+    static void expiringSoon(Map<Integer, Policy1> map) {
         LocalDate today = LocalDate.now();
-        for (Policy p : map.values()) {
+        for (Policy1 p : map.values()) {
             if (!p.expiryDate.isBefore(today) && p.expiryDate.isBefore(today.plusDays(30)))
                 System.out.println(p);
         }
         System.out.println();
     }
 
-    static void byPolicyHolder(Map<Integer, Policy> map, String name) {
-        for (Policy p : map.values())
+    static void byPolicyHolder(Map<Integer, Policy1> map, String name) {
+        for (Policy1 p : map.values())
             if (p.policyHolder.equals(name))
                 System.out.println(p);
         System.out.println();
     }
 
-    static void removeExpired(Map<Integer, Policy> map) {
-        Iterator<Map.Entry<Integer, Policy>> it = map.entrySet().iterator();
+    static void removeExpired(Map<Integer, Policy1> map) {
+        Iterator<Map.Entry<Integer, Policy1>> it = map.entrySet().iterator();
         while (it.hasNext()) {
             if (it.next().getValue().expiryDate.isBefore(LocalDate.now()))
                 it.remove();
@@ -51,13 +51,13 @@ public class InsurancePolicyMapSystem {
 
     public static void main(String[] args) {
 
-        Policy p1 = new Policy(201, "Alice", LocalDate.now().plusDays(10), "Health", 5000);
-        Policy p2 = new Policy(202, "Bob", LocalDate.now().plusDays(40), "Auto", 8000);
-        Policy p3 = new Policy(203, "Alice", LocalDate.now().minusDays(5), "Home", 6000);
+        Policy1 p1 = new Policy1(201, "Alice", LocalDate.now().plusDays(10), "Health", 5000);
+        Policy1 p2 = new Policy1(202, "Bob", LocalDate.now().plusDays(40), "Auto", 8000);
+        Policy1 p3 = new Policy1(203, "Alice", LocalDate.now().minusDays(5), "Home", 6000);
 
-        Map<Integer, Policy> hashMap = new HashMap<>();
-        Map<Integer, Policy> linkedHashMap = new LinkedHashMap<>();
-        Map<LocalDate, Policy> treeMap = new TreeMap<>();
+        Map<Integer, Policy1> hashMap = new HashMap<>();
+        Map<Integer, Policy1> linkedHashMap = new LinkedHashMap<>();
+        Map<LocalDate, Policy1> treeMap = new TreeMap<>();
 
         hashMap.put(p1.policyNumber, p1);
         hashMap.put(p2.policyNumber, p2);

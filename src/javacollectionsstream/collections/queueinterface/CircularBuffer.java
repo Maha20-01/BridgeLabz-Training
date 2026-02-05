@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.queueinterface;
+package javacollectionsstream.collections.queueinterface;
 
 public class CircularBuffer {
     int[] buffer;

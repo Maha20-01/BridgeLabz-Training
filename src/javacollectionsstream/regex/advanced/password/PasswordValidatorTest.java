@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.password;
+package javacollectionsstream.regex.advanced.password;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

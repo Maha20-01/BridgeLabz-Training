@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.listinterface;
+package javacollectionsstream.collections.listinterface;
 
 import java.util.*;
 

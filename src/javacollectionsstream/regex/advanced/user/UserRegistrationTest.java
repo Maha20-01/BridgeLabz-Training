@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.user;
+package javacollectionsstream.regex.advanced.user;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

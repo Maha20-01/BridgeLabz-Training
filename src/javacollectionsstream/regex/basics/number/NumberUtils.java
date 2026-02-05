@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.number;
+package javacollectionsstream.regex.basics.number;
 
 public class NumberUtils {
 

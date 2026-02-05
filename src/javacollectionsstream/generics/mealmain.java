@@ -6,6 +6,7 @@
     generics. Different meal plans such as Vegetarian,
     Vegan, and Keto are generated using a generic Meal class.
 */
+package javacollectionsstream.generics;
 
 interface mealplan {
 

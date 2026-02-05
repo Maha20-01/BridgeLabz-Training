@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.advanced.bank;
+package javacollectionsstream.regex.advanced.bank;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;

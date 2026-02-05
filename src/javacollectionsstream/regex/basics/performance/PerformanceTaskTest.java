@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.performance;
+package javacollectionsstream.regex.basics.performance;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;

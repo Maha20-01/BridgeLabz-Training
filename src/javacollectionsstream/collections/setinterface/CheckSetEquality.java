@@ -1,4 +1,4 @@
-package javacollectionstreams.collections.setinterface;
+package javacollectionsstream.collections.setinterface;
 
 import java.util.*;
 

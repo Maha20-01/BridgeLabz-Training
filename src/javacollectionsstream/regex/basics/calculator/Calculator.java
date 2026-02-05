@@ -1,4 +1,4 @@
-package javacollectionstreams.regex.basics.calculator;
+package javacollectionsstream.regex.basics.calculator;
 
 public class Calculator {
 

@@ -7,6 +7,7 @@
     are handled using a common Product class. A generic
     method is used to apply discounts dynamically.
 */
+package javacollectionsstream.generics;
 
 class product {
 
