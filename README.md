@@ -87,6 +87,6 @@ It includes Java fundamentals, core programming concepts, structured practice pr
 
 11-Feb-2026 (Wednesday): Completed OceanFleatApp.
 
-12-Feb-2026 (Thursday): Took sick-leave.
+12-Feb-2026 (Thursday): worked on week 5 problems
 
 13-Feb-2026 (Friday): Completed week 5 practice problems and uploaded to git-hub.
