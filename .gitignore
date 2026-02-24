@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+out/
+
+# Compiled files
+*.class
+
+# Data files
+*.csv
+*.json
+*.txt
